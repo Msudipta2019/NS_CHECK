@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>NS_WebServiceHandler_Tyes</members>
+        <members>NS_WebServiceHandler_Tyes_Test</members>
+        <members>NS_WebServiceHandler_Teams_Test</members>
+        <members>NS_WebServiceHandler_Teams</members>
+        <members>NS_WebServiceHandler_ANIMaintenance</members>
+        <members>NS_IntegrationHelper</members>
+        <members>NS_IntegrationHelperTest</members>
+        <name>ApexClass</name>
+    </types>
+    <version>38.0</version>
+</Package>
